@@ -11,8 +11,6 @@
 |
 */
 
-Route::get("/facebook", "FacebookController@test");
-
 Route::group(['middleware' => ['web']], function () {
     Route::auth();
 
@@ -24,6 +22,11 @@ Route::group(['middleware' => ['web']], function () {
         Route::get('/', 'DashboardController@index');
     });
 
-});
+    //Twitter
+    Route::get('/twitter/login', [
+        'as' => 'profile', 'uses' => 'TwitterController@login'
+    ]);
 
+    
+});
 

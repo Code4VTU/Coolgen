@@ -2,131 +2,322 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a8efb47-6ea3-4407-97c0-0d5e0d2a0681" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/Material-Design-Iconic-Fontf066.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/Material-Design-Iconic-Fontf066.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/artill_clean_icons-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/artill_clean_icons-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/artill_clean_icons-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/artill_clean_icons-webfontd41d.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/fontawesome-webfontd41d.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/fontawesome-webfonte0a5.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/fontawesome-webfonte0a5.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/fontawesome-webfonte0a5.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/fontawesome-webfonte0a5.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regulard41d.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/animate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/bootstrap-extend.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/common.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/components.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/layout.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/material-design-iconic-font.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/pages.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/plugins.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/responsive.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/widgets.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/apps.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/additional-methods.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/autoNumeric.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/base64.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/bootbox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/bootstrap-datepicker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/bootstrap-filestyle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/chart.js.init.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/chart/chart-js/chart.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/chart/chart-js/chart.stackedbar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/chart/easypie/jquery.easypiechart.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/chart/flot/curvedLines.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/chart/flot/excanvas.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/chart/flot/jquery.flot.axislabels.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/chart/flot/jquery.flot.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/chart/flot/jquery.flot.pie.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/chart/flot/jquery.flot.resize.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/chart/flot/jquery.flot.spline.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/chart/flot/jquery.flot.stack.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/chart/flot/jquery.flot.symbol.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/chart/flot/jquery.flot.time.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/chart/flot/jquery.flot.tooltip.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/chart/nvd3/d3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/chart/nvd3/nv.d3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/chart/sparkline/jquery.sparkline.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/charts.init.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/checkout-wizard.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/colorpicker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/colors.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/dataTables.bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/dataTables.responsive.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/dataTables.tableTools.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/daterangepicker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/footable.all.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/fullcalendar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/hammerjs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/hover.intent.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/icheck.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/j-forms-order-quantity.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/j-forms-order.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/j-forms-validations.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/j-forms.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/jRespond.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/jqColorPicker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/jquery-cloneya.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/jquery-jvectormap-us-aea.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/jquery-jvectormap-world-mill.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/jquery-jvectormap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/jquery-migrate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/jquery.base64.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/jquery.bootstrap-touchspin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/jquery.dataTables.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/jquery.fitvids.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/jquery.form.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/jquery.hammer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/jquery.loadmask.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/jquery.mask.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/jquery.maskedinput.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/jquery.noty.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/jquery.nouislider.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/jquery.simpleWeather.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/jquery.slimscroll.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/jquery.spectrum.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/jquery.stepper.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/jquery.switch.button.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/jquery.syntaxhighlighter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/jquery.tagsinput.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/jquery.ui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/jquery.ui.timepicker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/jquery.ui.touch-punch.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/jquery.validate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/jspdf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/login-validation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/moment.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/nav.accordion.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/nv.d3.init.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/scrollup.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/select2.full.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/selectize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/smart-resize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/smoothscroll.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/sprintf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/stream-layers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/sweetalert.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/switchery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/tableExport.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/theme-switcher.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/velocity.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lib/vmap.init.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/master.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/TwitterController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/oauth-5-laravel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/ttwitter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2016_03_26_102433_create_sessions_table.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/fonts/artill_clean_icons-webfont.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/fonts/fontawesome-webfonte0a5.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/ad.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/ae.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/af.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/ag.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/ai.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/al.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/am.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/ao.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/aq.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/ar.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/as.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/at.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/au.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/aw.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/ax.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/az.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/ba.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/bb.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/bd.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/be.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/bf.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/bg.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/bh.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/bi.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/bj.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/bl.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/bm.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/bn.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/bo.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/bq.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/br.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/bs.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/bt.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/bv.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/bw.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/by.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/bz.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/ca.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/cc.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/cd.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/cf.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/cg.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/ch.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/ci.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/ck.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/cl.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/cm.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/cn.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/co.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/cr.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/cu.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/cv.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/cw.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/cx.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/cy.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/cz.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/de.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/dj.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/dk.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/dm.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/do.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/dz.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/ec.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/ee.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/eg.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/eh.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/er.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/es.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/et.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/fi.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/fj.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/fk.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/fm.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/fo.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/fr.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/ga.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/gb.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/gd.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/ge.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/gf.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/gg.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/gh.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/gi.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/gl.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/gm.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/gn.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/gp.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/gq.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/gr.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/gs.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/gt.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/gu.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/gw.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/gy.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/hk.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/hm.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/hn.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/hr.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/ht.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/hu.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/id.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/ie.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/il.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/im.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/in.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/io.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/iq.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/ir.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/is.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/it.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/je.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/jm.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/jo.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/jp.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/ke.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/kg.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/kh.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/ki.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/km.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/kn.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/kp.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/kr.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/kw.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/ky.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/kz.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/la.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/lb.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/lc.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/li.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/lk.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/lr.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/ls.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/lt.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/lu.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/lv.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/ly.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/ma.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/mc.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/md.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/me.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/mf.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/mg.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/mh.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/mk.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/ml.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/mm.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/mn.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/mo.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/mp.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/mq.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/mr.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/ms.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/mt.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/mu.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/mv.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/mw.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/mx.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/my.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/mz.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/na.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/nc.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/ne.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/nf.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/ng.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/ni.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/nl.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/no.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/np.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/nr.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/nu.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/nz.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/om.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/pa.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/pe.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/pf.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/pg.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/ph.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/pk.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/pl.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/pm.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/pn.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/pr.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/ps.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/pt.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/pw.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/py.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/qa.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/re.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/ro.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/rs.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/ru.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/rw.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/sa.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/sb.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/sc.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/sd.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/se.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/sg.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/sh.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/si.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/sj.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/sk.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/sl.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/sm.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/sn.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/so.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/sr.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/ss.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/st.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/sv.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/sx.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/sy.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/sz.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/tc.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/td.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/tf.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/tg.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/th.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/tj.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/tk.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/tl.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/tm.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/flags/1x1/tn.svg.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/text.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/favicon.ico" afterPath="$PROJECT_DIR$/public/favicon.ico" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.env" afterPath="$PROJECT_DIR$/.env" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Console/Commands/Inspire.php" afterPath="$PROJECT_DIR$/app/Console/Commands/Inspire.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Console/Kernel.php" afterPath="$PROJECT_DIR$/app/Console/Kernel.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Events/Event.php" afterPath="$PROJECT_DIR$/app/Events/Event.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Exceptions/Handler.php" afterPath="$PROJECT_DIR$/app/Exceptions/Handler.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/PasswordController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/PasswordController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/Controller.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/Controller.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/FacebookController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/FacebookController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Kernel.php" afterPath="$PROJECT_DIR$/app/Http/Kernel.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Middleware/Authenticate.php" afterPath="$PROJECT_DIR$/app/Http/Middleware/Authenticate.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Middleware/EncryptCookies.php" afterPath="$PROJECT_DIR$/app/Http/Middleware/EncryptCookies.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Middleware/RedirectIfAuthenticated.php" afterPath="$PROJECT_DIR$/app/Http/Middleware/RedirectIfAuthenticated.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Middleware/VerifyCsrfToken.php" afterPath="$PROJECT_DIR$/app/Http/Middleware/VerifyCsrfToken.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Requests/Request.php" afterPath="$PROJECT_DIR$/app/Http/Requests/Request.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/routes.php" afterPath="$PROJECT_DIR$/app/Http/routes.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Jobs/Job.php" afterPath="$PROJECT_DIR$/app/Jobs/Job.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Listeners/.gitkeep" afterPath="$PROJECT_DIR$/app/Listeners/.gitkeep" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Policies/.gitkeep" afterPath="$PROJECT_DIR$/app/Policies/.gitkeep" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" afterPath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" afterPath="$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Providers/EventServiceProvider.php" afterPath="$PROJECT_DIR$/app/Providers/EventServiceProvider.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" afterPath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/User.php" afterPath="$PROJECT_DIR$/app/User.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/artisan" afterPath="$PROJECT_DIR$/artisan" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/app.php" afterPath="$PROJECT_DIR$/bootstrap/app.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/autoload.php" afterPath="$PROJECT_DIR$/bootstrap/autoload.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/cache/.gitignore" afterPath="$PROJECT_DIR$/bootstrap/cache/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/app.php" afterPath="$PROJECT_DIR$/config/app.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/auth.php" afterPath="$PROJECT_DIR$/config/auth.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/broadcasting.php" afterPath="$PROJECT_DIR$/config/broadcasting.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/cache.php" afterPath="$PROJECT_DIR$/config/cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/compile.php" afterPath="$PROJECT_DIR$/config/compile.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/database.php" afterPath="$PROJECT_DIR$/config/database.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/filesystems.php" afterPath="$PROJECT_DIR$/config/filesystems.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/mail.php" afterPath="$PROJECT_DIR$/config/mail.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/queue.php" afterPath="$PROJECT_DIR$/config/queue.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/services.php" afterPath="$PROJECT_DIR$/config/services.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/session.php" afterPath="$PROJECT_DIR$/config/session.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/view.php" afterPath="$PROJECT_DIR$/config/view.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/.gitignore" afterPath="$PROJECT_DIR$/database/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/factories/ModelFactory.php" afterPath="$PROJECT_DIR$/database/factories/ModelFactory.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/migrations/.gitkeep" afterPath="$PROJECT_DIR$/database/migrations/.gitkeep" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_100000_create_password_resets_table.php" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_100000_create_password_resets_table.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/seeds/.gitkeep" afterPath="$PROJECT_DIR$/database/seeds/.gitkeep" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="$PROJECT_DIR$/gulpfile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/phpunit.xml" afterPath="$PROJECT_DIR$/phpunit.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/.htaccess" afterPath="$PROJECT_DIR$/public/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.php" afterPath="$PROJECT_DIR$/public/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/robots.txt" afterPath="$PROJECT_DIR$/public/robots.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/web.config" afterPath="$PROJECT_DIR$/public/web.config" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/assets/sass/app.scss" afterPath="$PROJECT_DIR$/resources/assets/sass/app.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/lang/en/auth.php" afterPath="$PROJECT_DIR$/resources/lang/en/auth.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/lang/en/pagination.php" afterPath="$PROJECT_DIR$/resources/lang/en/pagination.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/lang/en/passwords.php" afterPath="$PROJECT_DIR$/resources/lang/en/passwords.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/lang/en/validation.php" afterPath="$PROJECT_DIR$/resources/lang/en/validation.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/auth/emails/password.blade.php" afterPath="$PROJECT_DIR$/resources/views/auth/emails/password.blade.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/auth/login.blade.php" afterPath="$PROJECT_DIR$/resources/views/auth/login.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/auth/passwords/email.blade.php" afterPath="$PROJECT_DIR$/resources/views/auth/passwords/email.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/auth/passwords/reset.blade.php" afterPath="$PROJECT_DIR$/resources/views/auth/passwords/reset.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/auth/register.blade.php" afterPath="$PROJECT_DIR$/resources/views/auth/register.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/errors/503.blade.php" afterPath="$PROJECT_DIR$/resources/views/errors/503.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/home.blade.php" afterPath="$PROJECT_DIR$/resources/views/home.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/vendor/.gitkeep" afterPath="$PROJECT_DIR$/resources/views/vendor/.gitkeep" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server.php" afterPath="$PROJECT_DIR$/server.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/app/.gitignore" afterPath="$PROJECT_DIR$/storage/app/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/app/public/.gitignore" afterPath="$PROJECT_DIR$/storage/app/public/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/.gitignore" afterPath="$PROJECT_DIR$/storage/framework/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/.gitignore" afterPath="$PROJECT_DIR$/storage/framework/cache/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/sessions/.gitignore" afterPath="$PROJECT_DIR$/storage/framework/sessions/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/views/.gitignore" afterPath="$PROJECT_DIR$/storage/framework/views/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/logs/.gitignore" afterPath="$PROJECT_DIR$/storage/logs/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/ExampleTest.php" afterPath="$PROJECT_DIR$/tests/ExampleTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/TestCase.php" afterPath="$PROJECT_DIR$/tests/TestCase.php" />
     </list>
     <ignored path="PeshoPower.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -147,7 +338,28 @@
     <favorites_list name="PeshoPower" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="routes.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6775701">
+              <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".env" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.env">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -165,14 +377,14 @@
         <option value="$PROJECT_DIR$/resources/views/partials/leftSide.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php" />
         <option value="$PROJECT_DIR$/resources/views/welcome.blade.php" />
-        <option value="$PROJECT_DIR$/app/Http/routes.php" />
         <option value="$PROJECT_DIR$/public/css/creative.css" />
         <option value="$PROJECT_DIR$/resources/views/landing.blade.php" />
         <option value="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Arr.php" />
         <option value="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Session/Store.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/DashboardController.php" />
-        <option value="$PROJECT_DIR$/.env" />
         <option value="$PROJECT_DIR$/resources/views/master.blade.php" />
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/app/Http/routes.php" />
       </list>
     </option>
   </component>
@@ -406,10 +618,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -576,22 +788,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="40" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.env">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.49844238">
-          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/DashboardController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.50155765">
@@ -670,6 +866,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.49844238">
           <caret line="196" column="39" selection-start-line="196" selection-start-column="39" selection-end-line="196" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6775701">
+          <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
           <folding />
         </state>
       </provider>
