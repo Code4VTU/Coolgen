@@ -22,7 +22,7 @@ Route::group(['middleware' => ['web']], function () {
 
     //Twitter
     Route::get('/twitter/login', [
-        'as' => 'twitter_login', 'uses' => 'TwitterController@login'
+        'uses' => 'TwitterController@login'
     ]);
 
     Route::get('/twitter/callback', [
@@ -38,8 +38,8 @@ Route::group(['middleware' => ['web']], function () {
         return Redirect::to('/')->with('flash_notice', 'You\'ve successfully logged out!');
     }]);
 
-    Route::get('/twitter/feed', [
-        'as' => 'twitter_feed', 'uses' => 'TwitterController@newsFeed'
+    Route::get('/search/', [
+       'uses' => 'DashboardController@search'
     ]);
 });
 

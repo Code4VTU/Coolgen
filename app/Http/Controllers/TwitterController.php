@@ -69,11 +69,4 @@ class TwitterController extends Controller
             return Redirect::route('twitter.error')->with('flash_error', 'Crab! Something went wrong while signing you up!');
         }
     }
-
-    public function newsFeed() {
-        $feed =  Twitter::search("da");
-
-        dd($feed);
-
-    }
 }
