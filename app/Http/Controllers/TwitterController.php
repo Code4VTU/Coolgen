@@ -5,12 +5,17 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 
 use App\Http\Requests;
+use Session;
+use Twitter;
+use Redirect;
 
 class TwitterController extends Controller
 {
     public function login(Request $request)
     {
-        dd("4");
+//        Session::put("da", "ne");
+//        Session::save();
+        dd(Session::all());
         $sign_in_twitter = true;
         $force_login = false;
 
