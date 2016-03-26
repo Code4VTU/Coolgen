@@ -20,37 +20,9 @@ Route::get("/facebook", "FacebookController@test");
 
 
 //Twitter
-//Route::get('/twitterlog', [
-//    'as' => 'profile', 'uses' => 'TwitterController@login'
-//]);
-
-Route::get('/', function()
-{
-    return Twitter::getUserTimeline(['screen_name' => '', 'count' => 20, 'format' => 'json']);
-});
-
-Route::get('twitter/login', ['as' => 'twitter.login', function(){
-    // your SIGN IN WITH TWITTER  button should point to this route
-    $sign_in_twitter = true;
-    $force_login = false;
-
-    // Make sure we make this request w/o tokens, overwrite the default values in case of login.
-    Twitter::reconfig(['token' => '', 'secret' => '']);
-    $token = Twitter::getRequestToken(route('twitter.callback'));
-
-    if (isset($token['oauth_token_secret']))
-    {
-        $url = Twitter::getAuthorizeURL($token, $sign_in_twitter, $force_login);
-
-        Session::put('oauth_state', 'start');
-        Session::put('oauth_request_token', $token['oauth_token']);
-        Session::put('oauth_request_token_secret', $token['oauth_token_secret']);
-
-        return Redirect::to($url);
-    }
-
-    return Redirect::route('twitter.error');
-}]);
+Route::get('/twitter/login', [
+    'as' => 'profile', 'uses' => 'TwitterController@login'
+]);
 
 Route::get('twitter/callback', ['as' => 'twitter.callback', function() {
     // You should set this route on your Twitter Application settings as the callback
@@ -79,6 +51,7 @@ Route::get('twitter/callback', ['as' => 'twitter.callback', function() {
             return Redirect::route('twitter.login')->with('flash_error', 'We could not log you in on Twitter.');
         }
 
+
         $credentials = Twitter::getCredentials();
 
         if (is_object($credentials) && !isset($credentials->error))
@@ -95,7 +68,7 @@ Route::get('twitter/callback', ['as' => 'twitter.callback', function() {
 
             return Redirect::to('/')->with('flash_notice', 'Congrats! You\'ve successfully signed in!');
         }
-        dd("4");
+
 
         return Redirect::route('twitter.error')->with('flash_error', 'Crab! Something went wrong while signing you up!');
     }
