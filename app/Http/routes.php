@@ -14,15 +14,16 @@
 Route::get("/facebook", "FacebookController@test");
 
 Route::group(['middleware' => ['web']], function () {
+    Route::auth();
 
     Route::get('/', function () {
-        return view('welcome');
+        return view('landing');
+    });
+
+    Route::group(['prefix' => 'dashboard', 'middleware' => 'auth'], function () {
+        Route::get('/', 'DashboardController@index');
     });
 
 });
 
-Route::group(['middleware' => 'web'], function () {
-    Route::auth();
 
-    Route::get('/home', 'HomeController@index');
-});
