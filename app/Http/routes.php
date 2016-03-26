@@ -14,9 +14,7 @@
 Route::group(['middleware' => ['web']], function () {
     Route::auth();
 
-    Route::get('/', function () {
-        return view('landing');
-    });
+    Route::get('/', 'HomeController@index');
 
     Route::group(['prefix' => 'dashboard', 'middleware' => 'auth'], function () {
         Route::get('/', 'DashboardController@index');
@@ -27,6 +25,6 @@ Route::group(['middleware' => ['web']], function () {
         'as' => 'profile', 'uses' => 'TwitterController@login'
     ]);
 
-    
+
 });
 

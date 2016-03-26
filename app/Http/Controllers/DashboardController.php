@@ -11,7 +11,6 @@ class DashboardController extends Controller
 {
     public function index()
     {
-//        Session::put("da", "ne");
         return view('dashboard.index');
     }
 }
