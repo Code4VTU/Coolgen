@@ -72,7 +72,7 @@
             <p>Обединение на социалните мрежи!</p>
             <form action="{{url("search")}}">
                 <div class="form-group">
-                    <input type="text" name="q" class="form-control"><br />
+                    <input type="text" name="q" class="form-control" required><br />
                     Максимален брой резултати: 50
                 </div>
 
